@@ -1,11 +1,13 @@
 {
   "id": "agents-of-edgewatch-6-scenes-and-actors",
   "title": "Agents of Edgewatch 6 Scenes & Actors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
   },
+  "manifest": "https://raw.githubusercontent.com/Ayabara1013/aoe6-actors-scenes/main/module.json",
+  "download": "https://github.com/Ayabara1013/aoe6-actors-scenes/archive/refs/heads/main.zip",
   "relationships": {
     "systems": [
       {
