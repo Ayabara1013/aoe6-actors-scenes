@@ -1,0 +1,48 @@
+{
+  "id": "agents-of-edgewatch-6-scenes-and-actors",
+  "title": "Agents of Edgewatch 6 Scenes & Actors",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Greenbottle's Arcanum",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "aoe6-scenes",
+      "label": "AoE6 Scenes",
+      "path": "packs/aoe6-scenes",
+      "type": "Scene",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "aoe6-actors",
+      "label": "AoE6 Actors",
+      "path": "packs/aoe6-actors",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
