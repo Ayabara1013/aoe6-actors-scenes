@@ -1,7 +1,7 @@
 {
   "id": "agents-of-edgewatch-6-scenes-and-actors",
   "title": "Agents of Edgewatch 6 Scenes & Actors",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -13,6 +13,13 @@
       {
         "id": "pf2e",
         "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "aoe-maps-remake-by-narchy",
+        "type": "module",
         "compatibility": {}
       }
     ]
